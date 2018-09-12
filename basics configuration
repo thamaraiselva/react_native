@@ -1,0 +1,105 @@
+ ./gradlew app:assembleRelease -x lintVitalRelease
+
+watchman shutdown-server
+https://gist.github.com/pycarlos/a263f92e6bb66f74b74b828f9f2c7c6c - watchman install
+npm install --save-dev eslint-config-rallycoding
+
+deployment
+code push
+app hub deploy
+---------------------------------------------------------------
+		To install react devtools
+	sudo npm install -g react-devtools --unsafe-perm=true
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+		To install genymotion
+	download virtual box and genymotion 
+	In terminal
+	chmod +x genymotion-2.12.2-linux_x64.bin
+	./genymotion-2.12.2-linux_x64.bin
+	
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+		to Configure Genymotion and sdk 
+	Install android studio 
+	and download sdk dependcies in sdk configuration 
+	Home-> press ctrl+H
+	open .profile file 
+	add theses lines in end of the file
+			"export ANDROID_HOME=$HOME/Android/Sdk
+			 export PATH=$PATH:$ANDROID_HOME/tools
+			 export PATH=$PATH:$ANDROID_HOME/tools/bin
+			 export PATH=$PATH:$ANDROID_HOME/platform-tools"
+	save and restart 
+	open app in genymotion using press ctrl+D
+-----------------------------------------------------------------
+ur -fastlane hockey app 
+
+shoutem - like work press
+
+bolierplates- structure 
+
+
+	snowflake
+	pepperonic
+	ignite
+
+victory-native-example-charts
+
+React Native Tab View Demos
+
+https://blog.expo.io/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09 weather
+
+https://stackoverflow.com/questions/38512025/react-native-run-android-mismatch-version-adb-server-version#38706579 daemon bug
+
+1124
+
+reac native cross plat form ui
+
+
+npm i react-native-animatable	
+
+ npm i react-native-collapsible
+	
+
+simulator higher version os - give spl permision to expo in "Display over other apps " in Settings
+
+https://medium.com/@shanerudolfworktive/7-tips-to-develop-react-native-uis-for-all-screen-sizes-7ec5271be25c
+https://blog.solutotlv.com/size-matters/
+https://codepen.io/enxaneta/full/adLPwv
+
+
+
+I3p@@$word
+
+
+git commit -m "EV-1123 Organizer should be able to get a snapshot(dashboard and Events) of events and their status on a mobile phone"
+
+https://github.com/amitdhawan/Custom-DrawerMenu-React-Native
+
+th@mara1
+
+
+
+https://github.com/FormidableLabs/victory/issues/396
+
+reactotron  
+ignite
+patterns 
+story book 
+
+sso 
+(single sign on )
+
+ebs pay
+cc avenue 
+
+Eventj!n!
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwi3nLrh0JTdAhUG5o8KHSPfCIgQFjABegQICRAB&url=https%3A%2F%2Fshift.infinite.red%2Freact-navigation-drawer-tutorial-part-2-9c382217ac6b&usg=AOvVaw0cvxSYcx7w_BU7Ilqvlpbu
+
+sankar paramenswaran th
+find /var/www/wordpress -type d -exec chmod 755 {} \;
+ssh-keygen -o -t rsa -C "thamaraiselvan.vaithiyalingam@eventjini.me" -b 4096
+
